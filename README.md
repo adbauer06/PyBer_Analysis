@@ -27,7 +27,7 @@ The following resources were used to complete this analysis:
 
 This deliverable gives a good view of the differences between the various city types with respect to utilization of these types of services, the availability of drivers, and the revenue generated.  We also can see the average fare per ride in order to gage afforability, as well as average fare per driver in order to gage income potential. 
 
-![summary_by_city_type](analysis/summary_by_city_type.png)
+![summary_by_city_type](https://github.com/adbauer06/PyBer_Analysis/blob/main/analysis/summary_by_city_type.PNG)
 
 Some key obervations would be:
 - Urban areas have a much higher utilization of these types of services, much more than rural and even suburban cities, resulting in higher total fares/revenue.
