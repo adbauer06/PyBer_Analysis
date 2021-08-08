@@ -40,7 +40,7 @@ Some key obervations would be:
 
 This deliverable gives a graphical representation of the total weekly fares for each individual city type over a period of time, in this case January 1, 2019 through April 29, 2019.  In addition to seeing how the different city types compare as far as total fares at points in time, we can look at where each city's total fares trend higher or lower over time and how those increases and decreases match up with other city types. 
 
-![Fare_by_City_Type](analysis/Fare_by_City_Type.png)
+![Pyber_fare_summary](analysis/Pyber_fare_summary.png)
 
 Like the previous deliverable this graph clearly shows how total fares are highest in urban areas, lower in suburban areas, and lowest in rural areas.  Other obvervations to note would be:
 - While there are many fluctuations during this period, for the most part, total fares do not appear to be significantly rising or falling.
